@@ -1,0 +1,47 @@
+ body{  
+  font-family: Calibri, Helvetica, sans-serif;   
+}  
+.container {  
+  padding: 40px; 
+  background-color: lightblue; 
+  margin-top: 5em; 
+  margin-left: 11em;
+  margin-right: 11em;
+}  
+  
+input[type=text]{    
+  padding: 25px;  
+  margin: 25px 0 22px 0;  
+  display: inline-block;  
+  border: none;  
+  background: #f1f1f1;  
+} 
+textarea{
+  width: 95%;  
+  padding: 25px;  
+  margin: 25px 0 22px 0;  
+  display: inline-block;  
+  border: none;  
+  background: white; 
+}  
+ div {  
+            padding: 10px 0;  
+         }  
+hr {  
+    border: 1px solid #f1f1f1;  
+    margin-bottom: 25px;
+      
+    }  
+.registerbtn {  
+  background-color: #4CAF50;  
+  color: white;  
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  border: none;  
+  cursor: pointer;  
+  width: 30%;  
+  opacity: 0.9;  
+}  
+.registerbtn:hover {  
+  opacity: 1;  
+}  
